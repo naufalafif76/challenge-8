@@ -1,9 +1,9 @@
 const {
-  DB_USER = process.env.DB_USER,
-  DB_PASSWORD = process.env.DB_PASSWORD,
-  DB_NAME = process.env.DB_NAME,
-  DB_HOST = process.env.DB_HOST,
-  DB_PORT = process.env.DB_PORT,
+  DB_USER = "txwdgrnwxhtxri",
+  DB_PASSWORD = "16dc79791fcbe6287dd04a7266b10220ea3c8f6af6cb2f1ed9478c3e14f36add",
+  DB_NAME = "dd69u8auocrltp",
+  DB_HOST = "ec2-3-226-163-72.compute-1.amazonaws.com",
+  DB_PORT = "5432"
 } = process.env;
 
 module.exports = {
