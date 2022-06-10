@@ -27,7 +27,7 @@ module.exports = {
     username: DB_USER,
     password: DB_PASSWORD,
     database: `${DB_NAME}`,
-    host: DB_HOST,
+    host: "ec2-3-226-163-72.compute-1.amazonaws.com",
     port: DB_PORT,
     dialect: "postgres"
   }
